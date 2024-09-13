@@ -1,0 +1,48 @@
+*{
+	padding:0;
+	margin:0;
+}
+h1{
+	background-color: red;
+	color:lightgreen;
+	text-align:center;
+	padding: 80px;
+
+}
+#bt{
+	background-color: red;
+	color:lightgreen;
+	text-align:center;
+	padding: 20px;	
+}
+nav 
+{
+	background-color:blue;
+	padding:14px 20px;
+	overflow:hidden;
+}
+nav a {
+		color:white;
+		text-align:center;
+		padding:14px 20px;
+		display:block;
+		float:left;
+	}
+nav a:hover 
+{
+	background-color:white;
+	color: black;
+}
+div
+{
+	margin:30px;
+	background-color:white;
+	color:black;
+}
+footer 
+{
+	background-color:#333;
+	text-align:center;
+	padding:70px;
+	color:white;
+}
